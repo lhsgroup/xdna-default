@@ -1,0 +1,15 @@
+{
+  "name": "lhsgroup/xdna-default",
+  "description": "default folder",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Luca Vignali",
+      "email": "luca@lhsgroup.net"
+    }
+  ],
+  "config": {
+  "vendor-dir": "public/composer_vendor"
+  }
+}
